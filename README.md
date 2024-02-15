@@ -44,3 +44,52 @@ public class test
 ![Earth gif](./GIF/Earth.gif)
 
 ### Formatting
+
+<<<<<<< HEAD
+``` csh
+=======
+```
+>>>>>>> 5aa6564cf3e7292b3e463225d03af8d5e8464204
+public class test
+{
+   int test = 0;
+}
+```
+
+![Earth gif](./GIF/Earth.gif)
+
+### Formatting
+
+This text is **bold** <br>
+This text is __bold__ <br>
+This text is *italics* <br>
+This text is _italics_ <br>
+This text is ***bold italics*** <br>
+This text is ~~stikeout~~ <br>
+
+## Blockquote 
+
+> test <br>
+
+> another
+> nested
+
+
+<p> this </p>
+<p> that </p>
+
+## Order 
+
+<ol>
+
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ol>
+
+## Links
+[codeblock](#codeblock)<br>
+[google](http://www.google.com/)
+
+
